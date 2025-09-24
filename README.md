@@ -18,7 +18,7 @@
 
 First, open your internet browser of choice, and write: 'https://git-scm.com' into the search bar and press the 'enter or 'return' key.  Once you reach the website, you'll be greeted with a short description of what Git is and a place to download the latest version. Scroll down, and stop when you see the computer monitor with the download link to for your operating system. The website should automatically recognize what operating system you're working from, so you don't need to look for a specific version.
 
-*For Linux and Mac Users:* At this point in the process, you will need an extra tool for Git to be able to work on your device. While on the website, open a seperate tab and write 'https:homebrew.sh' in your browser's webpage. Here, you'll be able to download Homebrew, an open-source software package manager for these operating systems that simplifies installation and software management processes. Here, the following scripts will download to your device upon entering it into the terminal or sudo for Linux. 
+*For Linux and Mac Users:* At this point in the process, you will need an extra tool for Git to be able to work on your device. While on the website, open a seperate tab and write 'https://homebrew.sh' in your browser's webpage. Here, you'll be able to download Homebrew, an open-source software package manager for these operating systems that simplifies installation and software management processes. Here, the following scripts will download to your device upon entering it into the terminal or sudo for Linux. 
 
 Once Homebrew is downloaded, return to the 'https://
 
