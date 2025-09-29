@@ -39,25 +39,43 @@ Now that you have **Git** installed, it'll be a good idea to get a GitHub accoun
 --
 1. *Branch:* A branch, or branching may also refer to to act of switching execution to a different instruction sequence as a result of executing a branch instruction.
    
-3. *Clone:* Downloads an existing repository from a remote server
+3. *Clone:* Downloads an existing repository from a remote server.
    
-5. *Commit:* Saves changes to the local repository
+5. *Commit:* Saves changes to the local repository. You can also make changes to your git commit.
    
-7. *Fetch:* Downloads objects and tags from another repository
+7. *Fetch:* Downloads objects and tags from another repository.
    
-9. *Git:* An app dedicated to the version control of source code files
+9. *Git:* An app dedicated to the version control of source code files.
     
 11. *Github:* "A web-based interfaced that uses Git, the open source version control software that lets multiple that lets multiple people make seperate changes to web pages at the same time." It also allows developers to create, store and manage and share their code.
     
-13. *Merge:*
+13. *Merge:* A **merge** allows the developer to join two different forked histories together again.
     
-15. *Merge Conflict:*
+15. *Merge Conflict:* A system error that occurs when more than one file changes are made to the same line of code, or section of a file. **Git** can't automatically decide which changes to keep and which to discard.
     
-17. *Push:*
+16. *Push:* The **push** command uploads the data content from a local repository to a remote repository, like **Github**.
     
-19. *Pull:*
+17. *Pull:*
+
+18. *Remote:*
     
-21. *Remote:*
+19. *Repository:* A data structure that centralizes digital storage that developers use to make and manage changes to an applications source code file. Think of a digital filing cabinet that has every saved version of your code.
+
+Works Cited: 
+--
+
+1. A very brief history of Git - Git Version Control. (2022, August 29). CraftQuest. 'https://craftquest.io/guides/git/getting-started/a-very-brief-history-of-git#:~:text=Git%20was%20created%20in%202005,used%20BitKeeper%20for%20version%20control.'
+   
+2. Blau, T. (2025, April 7). Git turns 20: A Q&A with Linus Torvalds. The GitHub Blog. https://github.blog/open-source/git/git-turns-20-a-qa-with-linus-torvalds/#:~:text=Torvalds%20famously%20wrote%20Git%20in,BitKeeper%2C%20due%20to%20licensing%20disagreements.
+   
+3. Code Institute. (2022, September 28). What is GitHub | how to use it | benefits of GitHub [Video]. YouTube. 'https://www.youtube.com/watch?v=BUE2LaSzijM' Corbo, A. (2025, July 8).
+   
+5. What is Git? Built In. 'https://builtin.com/software-engineering perspectives/git#:~:text=Git%2C%20a%20version%20control%20system,be%20merged%20into%20one%20location.'
+   
+7. History of GitHub. (n.d.). 'https://pslmodels.github.io/Git-Tutorial/content/background/GitHubHistory.html' Wikipedia contributors. (2025a, September 17)
+   
+9. JetBrains. Wikipedia. 'https://en.wikipedia.org/wiki/JetBrains Wikipedia contributors.' (2025b, September 18).
     
-23. *Repository:* A data structure that centralizes digital storage that developers use to make and manage changes to an applications source code file. Think of a digital filing cabinet that has every saved version of your code.
+10. Git. Wikipedia.'https://en.wikipedia.org/wiki/Git#:~:text=Git%20is%20free%20and%20open,development%20of%20the%20Linux%20kernel.'
+
 
