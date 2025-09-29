@@ -17,11 +17,11 @@ JetBrains' Webstorm is also a great integrated development environment (IDE) tha
 
 First, open your internet browser of choice, and write: 'https://git-scm.com' into the search bar and press the 'enter or 'return' key. Once you reach the website, you'll be greeted with a short description of what Git is and a place to download the latest version. Scroll down, and stop when you see the computer monitor with the download link to for your operating system. The website should automatically recognize what operating system you're working from, so you don't need to look for a specific version.
 
-*For Linux and Mac Users:* At this point in the process, you will need an extra tool for **Git** to be able to work on your device. While on the website, open a seperate tab and write 'https://homebrew.sh' in your browser's webpage. Here, you'll be able to download Homebrew, an open-source software package manager for these operating systems that simplifies installation and software management processes. Search for the following script to be able to enter it in your Terminal or shell management app in coordination with your specific Linux distro. 
+<ins>*For Linux and Mac Users:*</ins> At this point in the process, you will need an extra tool for **Git** to be able to work on your device. While on the website, open a seperate tab and write 'https://homebrew.sh' in your browser's webpage. Here, you'll be able to download Homebrew, an open-source software package manager for these operating systems that simplifies installation and software management processes. Search for the following script to be able to enter it in your Terminal or shell management app in coordination with your specific Linux distro. 
 
-Once Homebrew is installed, return to your 'https://git-scm.com' tab. Then, click the download button that appears on the image of the computer screen. This will put you on a page that shows you the script to download git. Here, you'll need to return to your Terminal, or your shell management system. Copy and paste the script from the website and enter it into the shell. Press the 'Enter' or 'Return' key and wait until the installation process is complete. 
+Once Homebrew is installed, return to your 'https://git-scm.com' tab. Then, click the download button that appears on the image of the computer screen. This will put you on a page that shows you the script to download **Git**. Here, you'll need to return to your Terminal, or your shell management system. Copy and paste the script from the website and enter it into the shell. Press the 'Enter' or 'Return' key and wait until the installation process is complete. 
 
-*For Windows Users:* You may skip the Hombrew installation and proceed with downloading **Git** directly from the website. Once downloaded, open the .exe file and continue along the set up process that will include where you want Git to stay on your device, which IDE you will be able to use Git in, and the licensing agreement. 
+<ins>*For Windows Users:*</ins> You may skip the Hombrew installation and proceed with downloading **Git** directly from the website. Once downloaded, open the .exe file and continue along the set up process that will include where you want **Git** to stay on your device, which IDE you will be able to use Git in, and the licensing agreement. 
 
 To check if you have the latest version of **Git**, enter or copy and past the following script into the Terminal or shell management system: 'git --version'
 
@@ -29,7 +29,7 @@ Congratulations! You now have **Git** installed to your device.
 
 **How To: Create an Account with GitHub**
 -- 
-Now that you have Git installed, it'll be a good idea to get a GitHub account set up, especially, if 
+Now that you have **Git** installed, it'll be a good idea to get a GitHub account set up, especially, if 
 
 **How To: Add WebStorm to your workstation**
 --
@@ -37,16 +37,27 @@ Now that you have Git installed, it'll be a good idea to get a GitHub account se
 
 **Glossary**
 --
-1. Branch
-2. Clone
-3. Commit
-4. Fetch
-5. **Git**
-6. **Git**hub
-7. Merge
-8. Merge Conflict
-9. Push
-10. Pull
-11. Remote
-12. Repository
+1. *Branch:* A branch, or branching may also refer to to act of switching execution to a different instruction sequence as a result of executing a branch instruction.
+   
+3. *Clone:* Downloads an existing repository from a remote server
+   
+5. *Commit:* Saves changes to the local repository
+   
+7. *Fetch:* Downloads objects and tags from another repository
+   
+9. *Git:* An app dedicated to the version control of source code files
+    
+11. *Github:* "A web-based interfaced that uses Git, the open source version control software that lets multiple that lets multiple people make seperate changes to web pages at the same time." It also allows developers to create, store and manage and share their code.
+    
+13. *Merge:*
+    
+15. *Merge Conflict:*
+    
+17. *Push:*
+    
+19. *Pull:*
+    
+21. *Remote:*
+    
+23. *Repository:* A data structure that centralizes digital storage that developers use to make and manage changes to an applications source code file. Think of a digital filing cabinet that has every saved version of your code.
 
